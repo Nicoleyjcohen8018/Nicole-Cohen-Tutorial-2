@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2757B71D-C10A-08B8-3F69-D9BEA11CF13E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/camerascript.cs">
+    <Files>
+      <File FileName="Assets/script/playerscript.cs" Line="22" Column="1" />
+      <File FileName="Assets/script/camerascript.cs" Line="5" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="220ec8a4-a56d-4237-a96d-a715bfe814c7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
